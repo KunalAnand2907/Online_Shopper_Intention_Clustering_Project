@@ -2,7 +2,7 @@
 ### 1.) PURPOSE:
 #### Examine the Online Shopper Intention when Buying & Visiting Online Shopping Websites through different Clustering Algorithms (Unsupervised Learning)
 ### 2.) DATASET OVERVIEW
-DATASET NAME: ONLINE SHOPPER'S INTENTION
+DATASET NAME: ONLINE SHOPPER'S INTENTION,
 Link To Access Data: https://www.kaggle.com/datasets/henrysue/online-shoppers-intention 
 
 This data consists of various Information related to customer's behavior while they are visiting or buying different things from online shopping websites
