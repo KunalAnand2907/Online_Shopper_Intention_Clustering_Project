@@ -13,7 +13,7 @@ This data consists of various Information related to customer's behavior while t
     4. K Means Clustering on all 14 Columns
     *Performance Measures: Elbow Method,Silhoutte Score
     5. Hierarichal Clustering an all 14 Columns
-    6.) Comairing predictions via Confusion Matrix
+    6.) Compairing predictions via Confusion Matrix
 #### 4.) CONCLUSION:
 There is a likely chance that after a decent number of customers looked through the product-related page, they decided to navigate away from the website. Then they opened a new website in the same session to finish the purchase. The above speculation is why many successful revenue records happen when the session has a short duration and high bounce rate.
 
